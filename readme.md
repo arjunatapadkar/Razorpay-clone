@@ -3,6 +3,9 @@
 
 A responsive clone of the Razorpay website recreated using Tailwind CSS. Experience the sleek design and payment processing workflow just like Razorpay!
 
+![Screenshot (185)](https://github.com/arjunatapadkar/Razorpay-clone/assets/99797400/ad919b66-fc6d-4f8a-9e11-97f0b4054e94)
+
+
 ## Features
 
 - Replicated Razorpay's website layout and design
